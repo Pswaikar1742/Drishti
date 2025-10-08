@@ -1,0 +1,21 @@
+Timestamp,Latitude,Longitude,Location,Accuracy,Source,Activity
+2025-09-20 20:00:00,15.2993,74.1240,Anjuna Beach Goa,12,GPS,Stationary
+2025-09-20 22:15:00,15.2993,74.1240,Beach Shack Goa,8,GPS,On Phone
+2025-09-21 08:00:00,15.2993,74.1240,Anjuna Beach Goa,10,GPS,On Phone
+2025-09-21 12:30:00,15.5480,73.7558,Ponda Goa,25,Cell Tower,Moving
+2025-09-21 15:00:00,15.5480,73.7558,Industrial Area Ponda,15,GPS,Stationary
+2025-09-21 18:00:00,15.2993,74.1240,Anjuna Beach Goa,12,WiFi,Stationary
+2025-09-21 21:00:00,15.2993,74.1240,Beach Shack Goa,8,GPS,On Phone
+2025-09-22 02:00:00,15.2993,74.1240,Anjuna Beach Goa,20,WiFi,Stationary
+2025-09-22 09:00:00,15.2993,74.1240,Anjuna Beach Goa,10,GPS,Stationary
+2025-09-22 12:45:00,15.2993,74.1240,Beach Shack Goa,8,GPS,On Phone
+2025-09-22 16:20:00,15.2993,74.1240,Anjuna Beach Goa,15,GPS,On Phone
+2025-09-22 19:30:00,15.4909,73.8278,Mapusa Goa,30,Cell Tower,Moving
+2025-09-22 22:00:00,15.2993,74.1240,Anjuna Beach Goa,12,GPS,Stationary
+2025-09-23 03:00:00,15.2993,74.1240,Beach Shack Goa,18,WiFi,Stationary
+2025-09-23 10:15:00,15.2993,74.1240,Anjuna Beach Goa,10,GPS,On Phone
+2025-09-23 14:30:00,15.5480,73.7558,Ponda Goa,20,Cell Tower,Moving
+2025-09-23 18:00:00,15.2993,74.1240,Anjuna Beach Goa,12,GPS,Stationary
+2025-09-23 21:45:00,15.2993,74.1240,Beach Shack Goa,8,GPS,On Phone
+2025-09-24 01:15:00,15.2993,74.1240,Anjuna Beach Goa,15,WiFi,Stationary
+2025-09-24 05:30:00,15.2993,74.1240,Anjuna Beach Goa,10,GPS,Stationary

@@ -1,0 +1,50 @@
+=== WhatsApp Chat Export - Cyber Fraud Ring ===
+Group: "Tech Team Alpha"
+Participants: Amit, Rohit, Sneha, Vikash
+
+[2025-09-15 14:35:00] Amit: "Everyone, new phishing template is live. Check Telegram."
+[2025-09-15 14:36:30] Rohit: "Looks good. Better than the last one."
+[2025-09-15 14:37:15] Sneha: "Payment gateway ready. Using new crypto mixer."
+[2025-09-15 14:38:00] Vikash: "I have 8 new recruits. When do we start?"
+[2025-09-15 14:40:00] Amit: "Tomorrow. Training tonight at 8 PM."
+
+[2025-09-15 16:55:00] Sneha: "ALERT! Bank flagged account ending 4532."
+[2025-09-15 16:56:20] Amit: "Switch to backup accounts immediately."
+[2025-09-15 16:57:00] Rohit: "Moving funds now. ETA 30 mins."
+[2025-09-15 16:58:30] Sneha: "Confirmed. ₹2.1L safely transferred."
+
+[2025-09-16 08:40:00] Rohit: "Guys, Delhi operation got busted. Police raid."
+[2025-09-16 08:41:15] Amit: "SHUTDOWN everything. Delete logs."
+[2025-09-16 08:42:00] Vikash: "Our people safe?"
+[2025-09-16 08:43:30] Rohit: "Yes. They don't have our details."
+[2025-09-16 08:45:00] Amit: "Stay dark for 48 hours. No calls, only encrypted chat."
+
+[2025-09-16 14:30:00] Sneha: "Today's collection: ₹4.2L. Breaking records!"
+[2025-09-16 14:31:20] Amit: "Excellent work team. Bonuses this weekend."
+[2025-09-16 14:32:00] Rohit: "Boss will be pleased."
+
+[2025-09-16 18:20:00] Vikash: "Problem. Agent #23 wants to quit. Knows too much."
+[2025-09-16 18:21:30] Amit: "Talk to him. Remind him about the NDA."
+[2025-09-16 18:22:45] Vikash: "And if he doesn't listen?"
+[2025-09-16 18:24:00] Amit: "Then remind him about his family."
+[2025-09-16 20:55:00] Vikash: "He's back in. Problem solved."
+
+[2025-09-17 09:10:00] Rohit: "Boss wants face-to-face meeting tonight."
+[2025-09-17 09:11:20] Amit: "Location?"
+[2025-09-17 09:12:00] Rohit: "Will send separately. Come alone."
+
+[2025-09-17 12:40:00] Sneha: "Meeting at Cyber Cafe, Banjara Hills. 9 PM sharp."
+[2025-09-17 12:41:15] Amit: "Bring encrypted devices only. No personal phones."
+[2025-09-17 12:42:00] Vikash: "Got it. See you there."
+
+[2025-09-17 18:30:00] Amit: "Security alert. Possible informant in the team."
+[2025-09-17 18:31:20] Rohit: "Which team?"
+[2025-09-17 18:32:00] Amit: "Call center batch 3. Run background checks."
+[2025-09-17 18:35:00] Vikash: "Checking now..."
+[2025-09-17 21:10:00] Vikash: "All clear. False alarm. Just a paranoid agent."
+
+[2025-09-18 07:40:00] Rohit: "New script is genius! Amazon refund scam v2.0"
+[2025-09-18 07:41:30] Amit: "Deploy to all teams immediately."
+[2025-09-18 10:55:00] Sneha: "₹1.8L already! This script is GOLD."
+[2025-09-18 11:00:00] Amit: "Keep it running. Scale up operations."
+[2025-09-18 14:25:00] Rohit: "Boss wants daily reports. I'll compile numbers."

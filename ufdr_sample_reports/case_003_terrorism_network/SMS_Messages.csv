@@ -1,0 +1,21 @@
+Timestamp,Sender,Receiver,Message,Location,Status
+2025-09-25 03:20:00,+919123456789,+918234567890,"Package received. Technical specs confirmed. Proceed Phase 2.",Srinagar,Delivered
+2025-09-25 04:35:00,+918234567890,+917345678901,"Border crossing successful. Material secured.",Kashmir Border,Delivered
+2025-09-25 05:50:00,+917345678901,+919123456789,"30kg RDX + detonators. Safe house Jammu.",Jammu,Delivered
+2025-09-25 18:05:00,+919123456789,+916456789012,"₹50L released. Check hawala Delhi.",Srinagar,Delivered
+2025-09-25 19:35:00,+916456789012,+918234567890,"Funds distributed. Cells activated.",Delhi,Delivered
+2025-09-25 21:05:00,+918234567890,+917345678901,"Target reconnaissance complete. Blueprints attached.",Kashmir Border,Delivered
+2025-09-26 02:20:00,+917345678901,+919123456789,"Independence Day attack confirmed. Location finalized.",Jammu,Delivered
+2025-09-26 08:05:00,+919123456789,+915567890123,"Mumbai cell ready. Awaiting final trigger.",Srinagar,Delivered
+2025-09-26 10:35:00,+915567890123,+916456789012,"4 operatives in position. Equipment verified.",Mumbai,Delivered
+2025-09-26 14:05:00,+916456789012,+918234567890,"Delhi team briefed. D-Day is October 2nd.",Delhi,Delivered
+2025-09-26 17:35:00,+918234567890,+919123456789,"Timer circuits tested. 100% functional.",Kashmir Border,Delivered
+2025-09-26 22:05:00,+919123456789,+917345678901,"Handler approved. Execute on schedule.",Srinagar,Delivered
+2025-09-27 01:20:00,+917345678901,+916456789012,"Vehicle IEDs prepared. 3 units ready.",Jammu,Delivered
+2025-09-27 06:35:00,+916456789012,+915567890123,"Final payments made. Martyrdom videos recorded.",Delhi,Delivered
+2025-09-27 11:05:00,+915567890123,+919123456789,"All systems go. May Allah guide us.",Mumbai,Delivered
+2025-09-27 15:50:00,+919123456789,+918234567890,"Encrypted backup plan activated. Check Telegram.",Srinagar,Delivered
+2025-09-27 20:05:00,+918234567890,+917345678901,"Police activity increased. Delay by 24 hours.",Kashmir Border,Delivered
+2025-09-27 23:35:00,+917345678901,+919123456789,"Cannot delay. Window closes October 3rd.",Jammu,Delivered
+2025-09-28 04:05:00,+919123456789,+916456789012,"Proceed as planned. No further changes.",Srinagar,Delivered
+2025-09-28 08:50:00,+916456789012,+915567890123,"Final confirmation: October 2nd. 15:00 hours.",Delhi,Delivered

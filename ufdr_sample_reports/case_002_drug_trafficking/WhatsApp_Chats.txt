@@ -1,0 +1,75 @@
+=== WhatsApp Chat Export - Drug Trafficking Network ===
+Group: "Beach Business"
+Participants: Ravi, Carlos, Arjun, Priya, Khalid
+
+[2025-09-20 22:25:00] Ravi: "Boys, 50 packages ready for pickup. Grade A quality."
+[2025-09-20 22:26:30] Carlos: "I'll send truck tomorrow morning. Mumbai route clear."
+[2025-09-20 22:27:45] Arjun: "Delhi market is hungry. Can you do 100 next time?"
+[2025-09-20 22:29:00] Ravi: "If Priya can source more precursors, yes."
+[2025-09-20 22:30:15] Priya: "Working on it. Pharmaceutical audit next week, need to be careful."
+
+[2025-09-21 08:10:00] Ravi: "Priya, urgent. Need chemicals from the list I sent."
+[2025-09-21 08:11:20] Priya: "Checking inventory. Some items will take 3 days."
+[2025-09-21 08:12:45] Carlos: "We can't wait 3 days. Production line stops."
+[2025-09-21 08:14:00] Priya: "Okay, I'll source from alternative suppliers. Ready Wednesday."
+
+[2025-09-21 14:25:00] Carlos: "Clients in Delhi tested the product. Quality is excellent!"
+[2025-09-21 14:26:20] Arjun: "My distributors want to reorder immediately. 100 units."
+[2025-09-21 14:27:45] Ravi: "That's a big order. Need to ramp up production."
+[2025-09-21 14:29:00] Khalid: "I can get more raw material from Nepal. Better quality too."
+
+[2025-09-21 18:55:00] Arjun: "Expansion plans - Chandigarh market is wide open."
+[2025-09-21 18:56:20] Ravi: "Security concerns? Chandigarh police are active."
+[2025-09-21 18:57:45] Arjun: "Tiger will handle it. He has connections there."
+[2025-09-21 18:59:00] Carlos: "Good. Let's dominate North India."
+
+[2025-09-21 21:10:00] Ravi: "Khalid, Nepal route confirmed for next week?"
+[2025-09-21 21:11:20] Khalid: "Yes. 200 kg crossing border Monday night."
+[2025-09-21 21:12:45] Priya: "That's massive. Where will you process it?"
+[2025-09-21 21:14:00] Ravi: "Lab in Goa. Running 24/7 now."
+
+[2025-09-22 09:10:00] Priya: "Lab is producing at maximum capacity. Doubled output."
+[2025-09-22 09:11:20] Carlos: "Excellent! How much can we push this week?"
+[2025-09-22 09:12:45] Priya: "At least 150 units. Maybe 200 if chemicals arrive on time."
+
+[2025-09-22 12:55:00] Carlos: "Revenue update: ₹45 lakh today. Best week ever!"
+[2025-09-22 12:56:20] Arjun: "Delhi alone did ₹18L. Market is booming."
+[2025-09-22 12:57:45] Ravi: "We need to invest in better security. Too much cash flow."
+[2025-09-22 12:59:00] Khalid: "I know crypto specialists. Can help launder the money."
+
+[2025-09-22 16:30:00] Ravi: "Competition in South Goa eliminated. Market is ours now."
+[2025-09-22 16:31:20] Carlos: "How did Tiger handle it?"
+[2025-09-22 16:32:45] Ravi: "Don't ask. Problem solved permanently."
+
+[2025-09-22 19:40:00] Arjun: "International client from Dubai interested. HUGE order."
+[2025-09-22 19:41:20] Khalid: "I can facilitate. Use Kolkata port. I have customs contacts."
+[2025-09-22 19:42:45] Ravi: "Payment terms?"
+[2025-09-22 19:44:00] Khalid: "Bitcoin only. Anonymous and untraceable."
+
+[2025-09-23 03:10:00] Priya: "PROBLEM. Raw material supplier got arrested. We're short."
+[2025-09-23 03:11:20] Ravi: "How short?"
+[2025-09-23 03:12:45] Priya: "Can't fulfill next week's orders. Need alternative supplier ASAP."
+[2025-09-23 03:14:00] Khalid: "I'll talk to Nepal contact. They can increase quantity."
+
+[2025-09-23 10:25:00] Ravi: "Khalid confirmed. Nepal delivering 200 kg Monday."
+[2025-09-23 10:26:20] Carlos: "That solves the shortage. What about price?"
+[2025-09-23 10:27:45] Ravi: "Slightly higher but better quality. Net margin still good."
+
+[2025-09-23 14:40:00] Carlos: "WARNING: Police activity increased in Mumbai. Raids happening."
+[2025-09-23 14:41:20] Arjun: "Delhi also. NCB is active."
+[2025-09-23 14:42:45] Ravi: "Everyone lie low this weekend. No movements."
+[2025-09-23 14:44:00] Priya: "Moving inventory to safe house tonight. Address in Telegram."
+
+[2025-09-23 18:10:00] Arjun: "Safe house secured in Vasant Kunj. Moving 80 units tonight."
+[2025-09-23 18:11:20] Ravi: "Good. Keep low profile."
+[2025-09-23 18:12:45] Carlos: "Mumbai inventory also moved. Using warehouse near Navi Mumbai."
+
+[2025-09-23 21:55:00] Ravi: "Emergency meeting tomorrow in Goa. 3 PM at the beach shack."
+[2025-09-23 21:56:20] Khalid: "I'll fly in tonight."
+[2025-09-23 21:57:45] Arjun: "On my way."
+[2025-09-23 21:59:00] Carlos: "See you all tomorrow."
+
+[2025-09-24 01:25:00] Khalid: "Good news. Customs officer bribed. ₹5L. Shipment has green light."
+[2025-09-24 01:26:20] Ravi: "Excellent work. When's the shipment?"
+[2025-09-24 01:27:45] Khalid: "Friday night. Container ship from Malaysia."
+[2025-09-24 01:29:00] Carlos: "I'll handle Mumbai port logistics."

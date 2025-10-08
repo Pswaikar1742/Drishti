@@ -1,0 +1,50 @@
+===== DEVICE INFORMATION REPORT =====
+
+Primary Device:
+Device Name: Amit's OnePlus 11
+IMEI: 864532051234567
+IMEI2: 864532051234568
+Serial Number: OP11BLR234567
+Model: OnePlus CPH2449
+OS: Android 13
+OS Build: TP1A.220905.001
+Manufacturer: OnePlus
+Last Boot: 2025-09-18 06:30:00
+Device Owner: Amit Patel
+SIM 1: Airtel (IMSI: 404451234567890)
+SIM 2: Jio (IMSI: 405861234567891)
+
+Storage Information:
+Total Storage: 256 GB
+Used: 187 GB
+Free: 69 GB
+SD Card: None
+
+Security:
+Root Status: Rooted (Magisk v26.1)
+Bootloader: Unlocked
+Encryption: Enabled
+Screen Lock: Pattern + Fingerprint
+Last Backup: 2025-09-17 23:45:00
+
+Network Information:
+WiFi MAC: 8C:DC:D4:XX:XX:XX
+Bluetooth MAC: 8C:DC:D4:XX:XX:YY
+Last Known Location: Bangalore (Lat: 12.9716, Long: 77.5946)
+Last Cell Tower: BLR_CT_089
+
+Installed Security Apps:
+- NordVPN v6.42.0
+- ProtonMail v3.0.17
+- Signal v6.28.2
+- Telegram X v0.25.7
+- ExpressVPN v11.8.0
+- DuckDuckGo Browser v5.162.0
+- Brave Browser v1.57.64
+
+Forensic Notes:
+- Device shows signs of anti-forensic tools
+- Multiple encrypted messaging apps installed
+- VPN constantly active
+- Location services frequently disabled
+- Regular data wiping patterns detected

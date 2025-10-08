@@ -1,0 +1,3 @@
+Timestamp,Account_Number,Amount,Type,Notes
+2025-10-02 12:00:00,XXXX4321,500000,Transfer,Funds to handler
+2025-10-02 12:05:00,XXXX1234,200000,Deposit,Payment from Priya

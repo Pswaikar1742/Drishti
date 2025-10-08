@@ -1,0 +1,53 @@
+===== INVESTIGATIVE NOTES - CYBER FRAUD RING =====
+
+DATE: 2025-09-15
+- Intercepted communication between Amit Patel and team members
+- Evidence of organized phishing operations targeting senior citizens
+- Multiple encrypted communication channels identified
+- Financial transactions show structured money laundering pattern
+
+DATE: 2025-09-16
+- Delhi call center raid prompted shutdown protocol
+- Suspects using anti-forensic tools and VPNs
+- Daily collections exceeding ₹4 lakh
+- Money split: 40% handler, 30% operations, 30% team
+
+DATE: 2025-09-17
+- Handler meeting arranged in Banjara Hills, Hyderabad
+- Suspects traveling across state lines
+- Security concerns about potential informant
+- Advanced encryption and OpSec practices observed
+
+DATE: 2025-09-18
+- New phishing script deployed (Amazon Refund Scam v2.0)
+- ₹1.8L collected in 3 hours with new script
+- Evidence of victim targeting in Tier-2 cities
+- Rooted device with Magisk - anti-forensics capability
+
+KEY SUSPECTS:
+1. Amit Patel - Technical lead, operations coordinator
+2. Rohit Kumar - Call center manager, infrastructure
+3. Sneha Desai - Financial operations, money mule coordinator
+4. Vikash Singh - Recruitment and enforcement
+5. Unknown Handler - Ultimate beneficiary (40% share)
+
+EVIDENCE MARKERS:
+- Phishing templates on GitHub (deleted but cached)
+- Crypto mixer transactions traceable to Swiss accounts
+- Call patterns show coordination across 4 cities
+- WhatsApp group "Tech Team Alpha" contains operational details
+- VPN logs may reveal server locations
+- Meeting at Cyber Cafe Banjara Hills on 17th Sept 9 PM
+
+NEXT STEPS:
+- Surveillance of Banjara Hills location
+- Track crypto wallet addresses
+- Identify money mule accounts
+- Intercept new phishing campaigns
+- Locate server infrastructure
+- Identify and protect potential informant
+
+THREAT LEVEL: HIGH
+SOPHISTICATION: Advanced
+ESTIMATED DAILY LOSS: ₹3-5 Lakh
+VICTIM COUNT: 50+ seniors

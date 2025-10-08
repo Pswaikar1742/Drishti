@@ -1,0 +1,52 @@
+===== DEVICE INFORMATION REPORT =====
+
+Primary Device:
+Device Name: Ravi's Samsung Galaxy S23 Ultra
+IMEI: 356790123456789
+IMEI2: 356790123456790
+Serial Number: R58N12345AB
+Model: Samsung SM-S918B
+OS: Android 14
+OS Build: UP1A.231005.007
+Manufacturer: Samsung
+Last Boot: 2025-09-24 05:30:00
+Device Owner: Ravi Menon
+SIM 1: Vodafone (IMSI: 404201234567890)
+SIM 2: Empty
+
+Storage Information:
+Total Storage: 512 GB
+Used: 345 GB
+Free: 167 GB
+SD Card: 128 GB (Used: 98 GB)
+
+Security:
+Root Status: Rooted (Magisk v27.0)
+Bootloader: Unlocked
+Encryption: Enabled
+Screen Lock: PIN + Face Recognition
+Last Backup: 2025-09-23 22:30:00
+
+Network Information:
+WiFi MAC: D8:F8:83:XX:XX:XX
+Bluetooth MAC: D8:F8:83:XX:XX:YY
+Last Known Location: Goa (Lat: 15.2993, Long: 74.1240)
+Last Cell Tower: GOA_CT_034
+
+Installed Encrypted Apps:
+- Signal v6.30.1
+- Telegram X v0.25.9
+- Wickr Me v5.95.3
+- ProtonVPN v4.7.55
+- Tor Browser v12.5.4
+- Encrypted SMS v3.2.1
+- Private Calculator v2.8 (Hidden storage)
+- Ghost Phone v1.9.2
+
+Forensic Notes:
+- Device heavily encrypted with multiple security layers
+- Hidden storage partition detected (23 GB)
+- GPS spoofing app installed
+- Anti-forensics tools present
+- Frequent data wiping patterns
+- Burner SIM cards used regularly

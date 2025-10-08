@@ -1,0 +1,90 @@
+===== DEVICE INFORMATION REPORT =====
+===== CLASSIFIED - NIA COUNTER-TERRORISM DIVISION =====
+
+Primary Device:
+Device Name: Amir's Xiaomi 13 Pro
+IMEI: 867891234567890
+IMEI2: 867891234567891
+Serial Number: XM13SRI567890
+Model: Xiaomi 2210132G
+OS: Android 13 (MIUI 14)
+OS Build: TKQ1.221114.001
+Manufacturer: Xiaomi
+Last Boot: 2025-09-28 03:00:00
+Device Owner: Amir Khan
+SIM 1: Jio (IMSI: 405861234567890)
+SIM 2: Airtel (IMSI: 404451234567891)
+
+Storage Information:
+Total Storage: 256 GB
+Used: 198 GB
+Free: 58 GB
+SD Card: None
+Hidden Partition: 45 GB (Encrypted)
+
+Security:
+Root Status: Rooted (SuperSU + Magisk v27.0)
+Bootloader: Unlocked
+Encryption: Military-grade AES-256
+Screen Lock: Password + Fingerprint + Face ID
+Last Backup: 2025-09-27 23:00:00
+Self-Destruct: Enabled (10 failed login attempts)
+
+Network Information:
+WiFi MAC: 34:CE:00:XX:XX:XX
+Bluetooth MAC: 34:CE:00:XX:XX:YY
+Last Known Location: Srinagar (Lat: 34.0837, Long: 74.7973)
+Last Cell Tower: SRI_CT_045
+VPN: Always Active (Multiple servers)
+
+Installed Encrypted/Security Apps:
+- Telegram X v0.25.9 (Secret Chats enabled)
+- Signal Private Messenger v6.31.2
+- Tor Browser v12.5.5
+- ProtonVPN v4.8.0
+- ExpressVPN v11.9.0
+- Threema v5.1.2 (Swiss encrypted)
+- Encrypted SMS Pro v4.0.1
+- Ghost Commander v2.1 (Hidden files)
+- VeraCrypt Mobile v1.9.8
+- Anti-Theft Wiper v3.4.2
+- GPS Faker v2.8.1
+- IMEI Changer v1.5.3
+- Private Calculator v2.9 (Hidden storage)
+
+Communication Apps (Dark Web):
+- OnionShare v2.6
+- Ricochet Refresh v3.0.12
+- Briar Messenger v1.4.20
+
+Suspicious Files Detected:
+- bomb_making_guides.pdf (Encrypted)
+- target_blueprints.zip (Encrypted)
+- martyrdom_videos/ (45 GB encrypted partition)
+- hawala_transactions.xlsx (Encrypted)
+- weapons_inventory.doc (Encrypted)
+- safe_house_locations.kml (GPS coordinates)
+
+Forensic Red Flags:
+- Device heavily encrypted with multiple layers
+- Self-destruct mechanism active
+- Anti-forensics tools installed
+- Regular data wiping patterns
+- GPS spoofing active
+- IMEI changing capability
+- Burner SIMs used frequently
+- Hidden encrypted partition (45 GB)
+- Communications through Tor network
+- Military-grade operational security
+
+CRITICAL THREAT ASSESSMENT:
+- Device contains evidence of imminent terror attack
+- Multiple targets identified: Delhi and Mumbai
+- Attack date: October 2nd, 2025 at 15:00 hours
+- Explosive materials: 30 kg RDX confirmed
+- Network size: 7+ active operatives
+- Cross-border coordination: Pakistan handler
+- Martyrdom operation: Suicide attackers ready
+
+IMMEDIATE ACTION REQUIRED:
+THIS DEVICE CONTAINS ACTIONABLE INTELLIGENCE FOR PREVENTING MASS CASUALTY TERRORIST ATTACK

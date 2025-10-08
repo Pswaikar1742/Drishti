@@ -1,0 +1,21 @@
+Timestamp,Latitude,Longitude,Location,Accuracy,Source,Activity
+2025-09-25 02:00:00,34.0837,74.7973,Downtown Srinagar,10,GPS,Stationary
+2025-09-25 03:15:00,34.0837,74.7973,Safe House Srinagar,8,GPS,On Phone
+2025-09-25 08:00:00,34.0837,74.7973,Downtown Srinagar,12,WiFi,Stationary
+2025-09-25 14:00:00,34.1526,74.8082,Dal Lake Area,18,Cell Tower,Moving
+2025-09-25 18:00:00,34.0837,74.7973,Safe House Srinagar,8,GPS,On Phone
+2025-09-25 22:00:00,34.0837,74.7973,Downtown Srinagar,15,WiFi,Stationary
+2025-09-26 01:00:00,34.0837,74.7973,Safe House Srinagar,10,WiFi,Stationary
+2025-09-26 08:00:00,34.0837,74.7973,Downtown Srinagar,8,GPS,On Phone
+2025-09-26 12:00:00,32.7266,74.8570,Jammu Border,35,Cell Tower,Moving
+2025-09-26 14:00:00,32.7266,74.8570,Safe House Jammu,20,GPS,Stationary
+2025-09-26 17:30:00,34.0837,74.7973,Return to Srinagar,12,GPS,On Phone
+2025-09-26 22:00:00,34.0837,74.7973,Safe House Srinagar,8,WiFi,Stationary
+2025-09-27 01:15:00,34.0837,74.7973,Downtown Srinagar,10,WiFi,Stationary
+2025-09-27 06:30:00,34.0837,74.7973,Downtown Srinagar,8,GPS,On Phone
+2025-09-27 11:00:00,34.0837,74.7973,Safe House Srinagar,12,GPS,Stationary
+2025-09-27 15:45:00,34.0837,74.7973,Downtown Srinagar,8,GPS,On Phone
+2025-09-27 20:00:00,34.0837,74.7973,Safe House Srinagar,15,WiFi,Stationary
+2025-09-27 23:30:00,34.0837,74.7973,Downtown Srinagar,10,WiFi,Stationary
+2025-09-28 04:00:00,34.0837,74.7973,Safe House Srinagar,8,GPS,On Phone
+2025-09-28 08:45:00,34.0837,74.7973,Downtown Srinagar,12,GPS,Stationary

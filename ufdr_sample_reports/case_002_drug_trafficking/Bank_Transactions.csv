@@ -1,0 +1,13 @@
+Timestamp,Account_Number,Amount_INR,Type,Beneficiary,Bank,UPI_ID,Notes
+2025-09-21 01:40:00,XXXX6789,2500000,Credit,Arjun Delhi,HDFC Bank,arjun@paytm,Payment for 50 units
+2025-09-21 02:00:00,XXXX6789,1000000,Debit,Raw Material Supplier,ICICI Bank,supplier@phonepe,Chemical purchase
+2025-09-21 10:40:00,XXXX6789,150000,Debit,Lab Operations,SBI,lab@upi,Monthly lab costs
+2025-09-22 13:00:00,XXXX6789,4500000,Credit,Multiple Buyers,Multiple Banks,various@upi,Weekly collection
+2025-09-22 13:30:00,XXXX6789,1800000,Debit,Carlos Logistics,Axis Bank,carlos@paytm,40% logistics cut
+2025-09-22 14:00:00,XXXX6789,1350000,Debit,Distribution Network,Multiple Banks,distributors@upi,30% distribution
+2025-09-22 14:30:00,XXXX6789,900000,Debit,Production Team,HDFC Bank,team@paytm,20% team share
+2025-09-22 15:00:00,XXXX6789,450000,Withdrawal,Cash,ATM,,Operating expenses
+2025-09-22 22:30:00,XXXX6789,500000,Debit,Tiger Security,Cash,,Enforcement payment
+2025-09-23 11:00:00,XXXX6789,800000,Credit,Khalid Kolkata,ICICI Bank,khalid@phonepe,Nepal shipment advance
+2025-09-23 11:30:00,XXXX6789,800000,Debit,Nepal Supplier,Bitcoin Wallet,btc3ghi...rst,Cross-border payment
+2025-09-24 01:35:00,XXXX6789,500000,Debit,Customs Officer,Cash,,Bribe for clearance

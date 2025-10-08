@@ -1,0 +1,13 @@
+Timestamp,Sender,Receiver,Subject,Body_Preview,Attachments,Status
+2025-09-15 09:45:00,amit.tech@gmail.com,team@fakecorp.com,New Campaign Launch,"Hi Team, Launching new phishing campaign targeting...",phishing_template_v3.html|victim_list.xlsx,Sent
+2025-09-15 11:20:00,rohit.kumar@protonmail.com,amit.tech@gmail.com,Server Setup Complete,"VPN configured. New IP: 192.168.45.xxx",,Received
+2025-09-15 14:50:00,sneha.d@tutanota.com,accounts@cryptomixer.io,Transaction Request,"Transfer ₹2.5L to account XXXX4532",transaction_receipt.pdf,Sent
+2025-09-15 17:30:00,support@fakecorp.com,victims@various.com,Amazon Account Verification,"Dear Customer Your Amazon account requires...",fake_amazon_logo.png,Sent
+2025-09-16 08:45:00,news@cyberpolice.in,amit.tech@gmail.com,ALERT: Delhi Raid,"Police conducted raid on call center...",news_article.pdf,Received
+2025-09-16 10:30:00,amit.tech@gmail.com,team@fakecorp.com,URGENT: Shutdown Protocol,"Delete all logs immediately. Stay dark for 48 hours.",,Sent
+2025-09-16 15:40:00,sneha.d@tutanota.com,amit.tech@gmail.com,Today's Collection,"₹4.2L collected. Breakdown attached.",daily_report_16sep.xlsx,Sent
+2025-09-17 09:15:00,handler@securemail.onion,amit.tech@gmail.com,Meeting Tonight,"Boss wants meeting. Banjara Hills 9 PM. Come alone.",,Received
+2025-09-17 13:00:00,amit.tech@gmail.com,team@fakecorp.com,Meeting Details,"Location: Cyber Cafe Banjara Hills. Encrypted devices only.",,Sent
+2025-09-17 18:40:00,vikash.singh@securemail.net,amit.tech@gmail.com,Security Concern,"Possible informant in batch 3. Running checks.",background_check_results.pdf,Sent
+2025-09-18 07:50:00,rohit.kumar@protonmail.com,team@fakecorp.com,New Script Deployed,"Amazon Refund Scam v2.0 is live. Instructions attached.",script_v2.0.pdf|training_video.mp4,Sent
+2025-09-18 11:05:00,sneha.d@tutanota.com,amit.tech@gmail.com,Success Report,"₹1.8L in 3 hours with new script!",hourly_report_18sep.xlsx,Sent

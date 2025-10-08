@@ -1,0 +1,6 @@
+Device Name: Rajesh's iPhone 13 Pro
+IMEI: 356789123456789
+Serial Number: SN1234567890
+OS Version: iOS 16.4
+Last Backup: 2025-10-02 18:00:00
+Owner: Rajesh Malhotra

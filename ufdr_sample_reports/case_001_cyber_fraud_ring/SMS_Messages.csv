@@ -1,0 +1,21 @@
+Timestamp,Sender,Receiver,Message,Location,Status
+2025-09-15 14:30:00,+919845123456,+919876543210,"New batch of leads ready. Target senior citizens.",Bangalore,Delivered
+2025-09-15 15:15:00,+919876543210,+918765432109,"Transfer complete. ₹2.5L cleared.",Hyderabad,Delivered
+2025-09-15 16:50:00,+918765432109,+919845123456,"Account XXXX4532 flagged. Switch to backup.",Chennai,Delivered
+2025-09-15 18:25:00,+919845123456,+917654321098,"Need 5 more agents by Monday. Offer ₹500/day.",Bangalore,Delivered
+2025-09-15 19:10:00,+917654321098,+919876543210,"Recruits trained. Scripts sent via Telegram.",Pune,Delivered
+2025-09-16 08:35:00,+919876543210,+919845123456,"Call center raid in Delhi. Shutdown for 48hrs.",Hyderabad,Delivered
+2025-09-16 10:20:00,+919845123456,+918800112233,"Move servers to new location. Use VPN only.",Bangalore,Delivered
+2025-09-16 11:50:00,+918800112233,+919876543210,"Done. New IP: 192.168.xxx.xxx",Mumbai,Delivered
+2025-09-16 14:25:00,+919876543210,+918765432109,"₹4.2L today. Best haul yet.",Hyderabad,Delivered
+2025-09-16 16:35:00,+918765432109,+917654321098,"Split: 40% boss, 30% ops, 30% agents",Chennai,Delivered
+2025-09-16 18:15:00,+917654321098,+919845123456,"Agent #23 wants out. Handle it.",Pune,Delivered
+2025-09-16 20:50:00,+919845123456,+919876543210,"Convinced him. Threat worked.",Bangalore,Delivered
+2025-09-17 09:05:00,+919876543210,+918800112233,"Boss wants meeting tonight. Location TBD.",Hyderabad,Delivered
+2025-09-17 12:35:00,+918800112233,+918765432109,"Meeting at Cyber Cafe, Banjara Hills, 9 PM",Mumbai,Delivered
+2025-09-17 15:50:00,+918765432109,+919845123456,"Bring laptops and backup drives.",Chennai,Delivered
+2025-09-17 18:25:00,+919845123456,+917654321098,"Police informant suspected. Check backgrounds.",Bangalore,Delivered
+2025-09-17 21:05:00,+917654321098,+919876543210,"All clear. False alarm.",Pune,Delivered
+2025-09-18 07:35:00,+919876543210,+919845123456,"New script ready. Amazon refund scam v2.0",Hyderabad,Delivered
+2025-09-18 10:50:00,+919845123456,+918765432109,"Deploy immediately. Target Tier-2 cities.",Bangalore,Delivered
+2025-09-18 14:20:00,+918765432109,+918800112233,"₹1.8L in 3 hours. Script working perfectly.",Chennai,Delivered

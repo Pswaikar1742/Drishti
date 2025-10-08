@@ -1,0 +1,21 @@
+App_Name,Package_Name,Last_Used,Total_Usage_Minutes,Data_Used_MB,Permissions
+WhatsApp,com.whatsapp,2025-09-18 14:30:00,2340,1250,Camera|Contacts|Location|Storage
+Telegram X,org.thunderdog.challegram,2025-09-18 14:25:00,3180,980,Camera|Contacts|Storage
+Signal,org.thoughtcrime.securesms,2025-09-18 12:00:00,1560,420,Camera|Contacts|Storage
+ProtonMail,ch.protonmail.android,2025-09-18 11:45:00,890,310,Contacts|Storage
+Brave Browser,com.brave.browser,2025-09-18 14:15:00,2670,2340,Location|Storage|Camera
+Tor Browser,org.torproject.torbrowser,2025-09-17 19:30:00,1890,780,Storage
+NordVPN,com.nordvpn.android,2025-09-18 14:35:00,4560,1890,Location|Storage
+ExpressVPN,com.expressvpn.vpn,2025-09-17 20:00:00,2340,920,Location|Storage
+Bitcoin Wallet,de.schildbach.wallet,2025-09-17 16:30:00,340,180,Storage
+Crypto Mixer,com.cryptomixer.app,2025-09-16 15:45:00,280,240,Storage
+Burner Phone,com.burnerphone.app,2025-09-16 11:00:00,120,45,Phone|Contacts
+Fake GPS,com.lexa.fakegps,2025-09-17 20:45:00,67,12,Location
+File Shredder,com.securedelete.shredder,2025-09-18 07:00:00,45,8,Storage
+Anti-Forensics,com.antiforensics.tool,2025-09-16 08:30:00,89,23,Storage|Phone
+Google Maps,com.google.android.apps.maps,2025-09-17 12:30:00,156,89,Location|Storage
+Chrome,com.android.chrome,2025-09-15 10:00:00,234,456,Location|Storage|Camera
+Gmail,com.google.android.gm,2025-09-14 16:30:00,123,234,Contacts|Storage
+PhonePe,com.phonepe.app,2025-09-16 14:20:00,78,56,Phone|Contacts|SMS|Location
+Paytm,net.one97.paytm,2025-09-15 17:30:00,92,67,Phone|Contacts|SMS|Camera
+Google Drive,com.google.android.apps.docs,2025-09-18 06:45:00,234,1890,Storage|Camera

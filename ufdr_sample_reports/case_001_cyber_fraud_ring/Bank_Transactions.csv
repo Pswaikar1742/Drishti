@@ -1,0 +1,15 @@
+Timestamp,Account_Number,Amount_INR,Type,Beneficiary,Bank,UPI_ID,Notes
+2025-09-15 15:20:00,XXXX4532,250000,Credit,Money Mule Account 1,HDFC Bank,sneha@paytm,Victim funds
+2025-09-15 16:00:00,XXXX4532,250000,Debit,Crypto Wallet,Bitcoin,btc1abc...xyz,Conversion to crypto
+2025-09-15 17:30:00,XXXX7821,180000,Credit,Money Mule Account 2,ICICI Bank,rohit@phonepe,Victim funds
+2025-09-16 14:35:00,XXXX4532,420000,Credit,Multiple Victims,HDFC Bank,sneha@paytm,Today's collection
+2025-09-16 15:00:00,XXXX4532,168000,Debit,Boss Handler,Swiss Bank,handler@crypto,40% cut to handler
+2025-09-16 15:15:00,XXXX4532,126000,Debit,Operations Fund,HDFC Bank,ops@paytm,30% operations
+2025-09-16 15:30:00,XXXX4532,126000,Debit,Team Distribution,Multiple,various@upi,30% team share
+2025-09-17 11:45:00,XXXX7821,95000,Credit,Victim Payment,ICICI Bank,rohit@phonepe,Small transaction
+2025-09-17 12:00:00,XXXX7821,95000,Debit,Crypto Mixer,Bitcoin,btc2def...uvw,Laundering
+2025-09-18 11:20:00,XXXX4532,180000,Credit,New Script Victims,HDFC Bank,sneha@paytm,Amazon scam v2.0
+2025-09-18 11:45:00,XXXX9934,67000,Credit,Backup Account,Axis Bank,amit@paytm,Diversification
+2025-09-18 12:30:00,XXXX4532,72000,Debit,Boss Handler,Swiss Bank,handler@crypto,40% of 180K
+2025-09-18 12:45:00,XXXX4532,54000,Debit,Operations,HDFC Bank,ops@paytm,30% of 180K
+2025-09-18 13:00:00,XXXX4532,54000,Debit,Team Share,Multiple,various@upi,30% of 180K

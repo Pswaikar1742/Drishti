@@ -1,0 +1,11 @@
+Timestamp,Sender,Receiver,Message,Location
+2025-10-01 22:20:00,Rajesh Malhotra,Vikram Singh,"Meet at the usual spot. Bring the package.",Mumbai
+2025-10-01 23:10:00,Vikram Singh,Priya Sharma,"Change of plans. Use route B.",Delhi
+2025-10-02 09:35:00,Priya Sharma,Rajesh Malhotra,"Package delivered. Awaiting confirmation.",Delhi
+2025-10-02 10:05:00,Rajesh Malhotra,Unknown,"Who is the new contact?",Mumbai
+2025-10-02 11:50:00,Unknown,Rajesh Malhotra,"Instructions sent. Check WhatsApp.",Mumbai
+2025-10-02 12:05:00,Rajesh Malhotra,Anonymous,"Received. Will proceed as discussed.",Mumbai
+2025-10-02 13:35:00,Priya Sharma,Unknown,"Need more details.",Delhi
+2025-10-02 14:05:00,Vikram Singh,Rajesh Malhotra,"All set for tonight.",Delhi
+2025-10-02 15:05:00,Rajesh Malhotra,Priya Sharma,"Keep your phone off after 6 PM.",Mumbai
+2025-10-02 16:05:00,Anonymous,Rajesh Malhotra,"Transfer complete. Await further instructions.",Mumbai

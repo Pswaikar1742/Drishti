@@ -1,0 +1,11 @@
+Timestamp,Account_Number,Amount_INR,Type,Beneficiary,Method,Notes
+2025-09-25 18:10:00,Hawala Delhi,5000000,Credit,Hawala Network,Cash,Received from Pakistan handler
+2025-09-25 19:00:00,Hawala Delhi,1500000,Debit,Mumbai Cell,Cash,Operational funds for 4 operatives
+2025-09-25 19:30:00,Hawala Delhi,1200000,Debit,Delhi Cell,Cash,Operational funds for 3 operatives
+2025-09-25 20:00:00,Hawala Delhi,800000,Debit,Weapons Supplier,Cash,RDX and detonators
+2025-09-25 20:30:00,Hawala Delhi,500000,Debit,Safe Houses,Cash,Rental and security deposits
+2025-09-26 10:00:00,Bitcoin Wallet,450000,Credit,Anonymous Donor,Cryptocurrency,International funding
+2025-09-26 10:30:00,Bitcoin Wallet,450000,Debit,Equipment Purchase,Cryptocurrency,Technical equipment
+2025-09-27 06:40:00,Hawala Delhi,300000,Debit,Families Fund,Cash,Martyrs' families support
+2025-09-27 07:00:00,Hawala Delhi,250000,Debit,Final Payments,Cash,Operational expenses
+2025-09-28 04:20:00,Hawala Delhi,200000,Debit,Emergency Fund,Cash,Backup operational funds

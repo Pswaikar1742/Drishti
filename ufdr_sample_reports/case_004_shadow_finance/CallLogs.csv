@@ -1,0 +1,11 @@
+Timestamp,Caller,Receiver,Duration,Type,Location
+2025-10-01 22:15:00,Rajesh Malhotra,Vikram Singh,120,Outgoing,Mumbai
+2025-10-01 23:05:00,Vikram Singh,Priya Sharma,45,Outgoing,Delhi
+2025-10-02 09:30:00,Priya Sharma,Rajesh Malhotra,60,Incoming,Delhi
+2025-10-02 10:00:00,Rajesh Malhotra,Unknown,30,Outgoing,Mumbai
+2025-10-02 11:45:00,Unknown,Rajesh Malhotra,15,Incoming,Mumbai
+2025-10-02 12:00:00,Rajesh Malhotra,Anonymous,180,Outgoing,Mumbai
+2025-10-02 13:30:00,Priya Sharma,Unknown,90,Outgoing,Delhi
+2025-10-02 14:00:00,Vikram Singh,Rajesh Malhotra,60,Outgoing,Delhi
+2025-10-02 15:00:00,Rajesh Malhotra,Priya Sharma,120,Outgoing,Mumbai
+2025-10-02 16:00:00,Anonymous,Rajesh Malhotra,30,Incoming,Mumbai

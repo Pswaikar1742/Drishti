@@ -1,0 +1,4 @@
+Timestamp,Sender,Receiver,Subject,Body
+2025-10-01 22:29:00,handler@securemail.com,rajesh.malhotra@email.com,Instructions,"Proceed with transfer. Use account ending 4321."
+2025-10-02 09:41:00,rajesh.malhotra@email.com,priya.sharma@email.com,Payment,"Payment processed. Confirm receipt."
+2025-10-02 09:42:00,priya.sharma@email.com,rajesh.malhotra@email.com,Confirmation,"Received."

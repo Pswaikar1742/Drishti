@@ -1,0 +1,21 @@
+Timestamp,Sender,Receiver,Message,Location,Status
+2025-09-20 22:20:00,+919988776655,+918877665544,"Package ready. 50 units. Pickup tomorrow 8 AM.",Goa,Delivered
+2025-09-20 23:50:00,+918877665544,+917766554433,"Shipment arriving Delhi Friday. Be ready.",Mumbai,Delivered
+2025-09-21 01:35:00,+917766554433,+919988776655,"Payment confirmed. ₹25L transferred.",Delhi,Delivered
+2025-09-21 08:05:00,+919988776655,+916655443322,"Need pharma grade chemicals. List attached.",Goa,Delivered
+2025-09-21 10:35:00,+916655443322,+918877665544,"Chemicals sourced. Delivery Wednesday.",Pune,Delivered
+2025-09-21 14:20:00,+918877665544,+917766554433,"Quality A+. Clients very happy. Reorder 100 units.",Mumbai,Delivered
+2025-09-21 18:50:00,+917766554433,+919988776655,"Expand to Chandigarh. Tiger will handle security.",Delhi,Delivered
+2025-09-21 21:05:00,+919988776655,+915544332211,"Nepal route confirmed. Shipment next week.",Goa,Delivered
+2025-09-22 02:35:00,+915544332211,+916655443322,"Port clear. No inspections Friday.",Kolkata,Delivered
+2025-09-22 09:05:00,+916655443322,+918877665544,"Lab running 24/7. Production doubled.",Pune,Delivered
+2025-09-22 12:50:00,+918877665544,+919988776655,"₹45L today. Best week ever.",Mumbai,Delivered
+2025-09-22 16:25:00,+919988776655,+917766554433,"Competition eliminated. Market is ours.",Goa,Delivered
+2025-09-22 19:35:00,+917766554433,+915544332211,"International client interested. Big order.",Delhi,Delivered
+2025-09-22 22:20:00,+915544332211,+916655443322,"Payment in crypto. BTC address sent separately.",Kolkata,Delivered
+2025-09-23 03:05:00,+916655443322,+919988776655,"Raw material shortage. Need alternative supplier.",Pune,Delivered
+2025-09-23 10:20:00,+919988776655,+918877665544,"Nepal contact delivering 200 kg next Monday.",Goa,Delivered
+2025-09-23 14:35:00,+918877665544,+917766554433,"Police activity increased. Lie low this weekend.",Mumbai,Delivered
+2025-09-23 18:05:00,+917766554433,+919988776655,"Safe house ready. Move inventory tonight.",Delhi,Delivered
+2025-09-23 21:50:00,+919988776655,+915544332211,"Emergency meeting. Goa tomorrow 3 PM.",Goa,Delivered
+2025-09-24 01:20:00,+915544332211,+918877665544,"Customs bribed. Green light for shipment.",Kolkata,Delivered
